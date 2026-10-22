@@ -1,0 +1,160 @@
+KITBACK - END-USER LICENSE AGREEMENT
+Kitback: WARDOGS cash tracker
+
+Copyright (c) 2026 QuestWeaver. All rights reserved.
+
+By installing, copying or using Kitback ("the Software") you agree to these
+terms. If you do not agree, do not install or use the Software.
+
+
+1. WHO THIS IS BETWEEN
+
+This agreement is between you and the developer who publishes the Software
+under the name QuestWeaver ("the Author"), who owns all rights in the
+Software. The Software is licensed to you, not sold.
+
+
+2. WHAT YOU MAY DO
+
+The Author grants you a free, personal, non-exclusive, non-transferable,
+revocable license to download, install and use the Software on computers you
+own or control, for your own personal, non-commercial purposes.
+
+You may also show the Software in screenshots, videos and live streams,
+including monetized ones, and link people to an official download page.
+
+
+3. WHAT YOU MAY NOT DO
+
+Unless the Author gives you written permission, you may not:
+
+  a) share, redistribute, re-host, mirror, bundle, sell, rent, lend or
+     sublicense the Software or any part of it;
+  b) modify, adapt, translate or create derivative works of the Software;
+  c) decompile, disassemble, unpack or otherwise reverse engineer the
+     Software, except to the extent applicable law expressly allows this
+     despite this restriction;
+  d) remove or change any copyright, trademark or license notices in it;
+  e) use the name "Kitback" or its logo for any other product, or in a way
+     that suggests the Author endorses something the Author has not;
+  f) use the Software for any unlawful purpose.
+
+
+4. WHERE TO GET IT
+
+The only official source of the Software is the Author's GitHub releases
+page (https://github.com/QuestWeaver/Kitback/releases), and any other
+download page the Author links from it. Copies obtained anywhere else are not
+authorized and may have been tampered with. The Software updates itself only
+from the Author's GitHub releases.
+
+
+5. NOT AFFILIATED WITH THE GAME
+
+Kitback is an unofficial, fan-made companion tool. Neither the Software nor
+the Author is associated or affiliated with, employed by, partnered with,
+endorsed, sponsored or approved by BULKHEAD, Team17, or the makers or
+publishers of WARDOGS. WARDOGS and all related names, logos and trademarks
+belong to their respective owners and are used here only to describe what the
+Software works with.
+
+
+6. HOW IT WORKS WITH THE GAME, AND YOUR RESPONSIBILITY
+
+The Software works only from what is already shown on your screen: it reads
+information the game displays, such as your money and the event feed, from
+screen pixels. It does not read or change the game's memory, does not read or
+modify game files, does not send input to the game, and does not automate
+gameplay.
+
+You are responsible for making sure your use of the Software complies with the
+terms of service, end-user license and rules of WARDOGS and of any platform
+you play it on. The Author is not responsible for any action taken against
+your account.
+
+
+7. PRIVACY
+
+Everything the Software records stays on your computer, in
+%LOCALAPPDATA%\Kitback Data. The Software does not collect telemetry,
+analytics or personal information, and does not send your recordings
+anywhere. Its only network traffic is checking for and downloading updates
+from the Author's GitHub releases.
+
+Links in the Software, such as the Ko-fi link, open in your web browser only
+when you click them; what happens there is governed by that website's terms.
+
+Uninstalling the Software and deleting the Kitback Data folder removes your
+data.
+
+
+8. TIPS AND DONATIONS
+
+The Software is free. Any tip or donation you choose to make (for example
+through Ko-fi) is voluntary and is a gift. It does not buy a license, extra
+rights, features, priority, support, or any promise of future updates, and it
+is not refundable except where the law requires.
+
+
+9. FEEDBACK
+
+If you send the Author suggestions, bug reports or other feedback, the Author
+may use them in any way, without any obligation or payment to you.
+
+
+10. THIRD-PARTY COMPONENTS
+
+The Software includes open-source components that are licensed under their
+own terms. Those terms are listed in THIRD_PARTY_NOTICES.txt, supplied with
+the Software, and apply to those components instead of this agreement.
+Nothing in this agreement limits your rights under those licenses.
+
+
+11. NO WARRANTY
+
+The Software is provided "AS IS" and "AS AVAILABLE", without warranty of any
+kind, express or implied, including any warranty of merchantability, fitness
+for a particular purpose, accuracy or non-infringement. The Author does not
+promise that the Software will be error-free, that its readings or figures
+will be accurate, that it will keep working with future versions of WARDOGS,
+or that it will be updated or supported.
+
+
+12. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by law, the Author will not be liable for any
+indirect, incidental, special, consequential or punitive damages, or for any
+loss of data, profits, in-game items or progress, or account access, arising
+from or related to the Software or its use, even if advised of the
+possibility. In any case, the Author's total liability to you will not exceed
+the amount you paid for the Software, which is zero. Nothing in this
+agreement excludes liability that cannot be excluded by law, and nothing in it
+affects statutory rights you have as a consumer that cannot be waived.
+
+
+13. ENDING THIS LICENSE
+
+This license lasts until it ends. It ends automatically if you break any of
+these terms. You may end it at any time by uninstalling the Software. When it
+ends you must stop using the Software and delete all copies. Sections 3, 5,
+6, 9, 11, 12 and 14 continue to apply after it ends.
+
+
+14. GENERAL
+
+This agreement is governed by the laws of the State of Missouri, United
+States of America, without regard to its conflict-of-law rules, except where
+the law of the place you live requires otherwise.
+
+The Author may publish updated terms with future versions of the Software;
+the terms supplied with a version apply to that version. If any part of this
+agreement is found unenforceable, the rest stays in effect. This is the whole
+agreement between you and the Author about the Software. All rights not
+expressly granted here are reserved by the Author.
+
+
+15. CONTACT
+
+Questions about these terms, or requests for permission under section 3:
+QuestWeaverMedia@gmail.com, or the Issues page of the Author's GitHub
+releases repository (https://github.com/QuestWeaver/Kitback/issues).

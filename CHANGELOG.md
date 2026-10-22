@@ -2,6 +2,18 @@
 
 What changed in each Kitback release. The newest is at the top.
 
+## 0.2.1 beta
+
+- Reads the money counter and the event feed more accurately, using Windows'
+  own text recognition. The old reader stays as a backup.
+- The life net's sign comes from the green or red arrow beside it, so a faint
+  minus sign can no longer turn a loss into a gain.
+- New option, Settings > Reading > Enhanced reading: reads the money and the
+  feed with a small AI text-recognition model built into Kitback. It runs on
+  your PC and sends nothing anywhere. In our tests it misread the feed less
+  often. Off by default; it applies from your next recording.
+- Fixed feed amounts with a 2, 4 or 5 that could be read as the wrong digit.
+
 ## 0.2.0 beta (first public release)
 
 - Tracks your WARDOGS cash life by life: the kit you bought, every payout from

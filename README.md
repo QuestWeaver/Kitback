@@ -34,7 +34,7 @@ authorized and may have been tampered with.
 | | |
 |---|---|
 | OS | Windows 10 or 11, 64-bit (tested on Windows 11) |
-| Game resolution | **2560x1440.** 1920x1080 is accepted but **experimental**: it has only been tested on 1440p footage scaled down, not on a real 1080p screen, so expect more misreads. Other sizes are refused rather than misread. |
+| Game resolution | **2560x1440 or 1920x1080.** Turn on Settings > Reading > Enhanced reading (the first-run tour asks): it reads best at both sizes, above all at 1920x1080. Other sizes are refused rather than misread. |
 | Display mode | **Borderless windowed.** Exclusive fullscreen captures a black screen. |
 | HUD settings | **Session cash** and **Event feed** set to *On*. |
 | Language / colours | English, default colours. Other settings are untested. |

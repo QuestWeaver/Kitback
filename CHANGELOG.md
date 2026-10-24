@@ -2,6 +2,22 @@
 
 What changed in each Kitback release. The newest is at the top.
 
+## 0.2.2 beta
+
+- Sessions, lives and the forecast now use every money reading. 0.2.1 kept
+  only the old reader's occasional readings there, so lives could be missed
+  or cut short. Sessions recorded on 0.2.1 are read correctly after updating.
+- The life net no longer flips between plus and minus once the arrow beside
+  it fades.
+- A money value read with digits missing is no longer taken as a real jump
+  in cash.
+- Enhanced reading is faster on menus and the map.
+- The first-run tour now asks whether to use Enhanced reading, and explains
+  it: it gives the best results at both supported sizes, runs on your PC and
+  sends nothing anywhere. Updating? It is in Settings > Reading.
+- 1920x1080 is no longer experimental: it has now been tested on real 1080p
+  screens. Enhanced reading reads the event feed best at that size.
+
 ## 0.2.1 beta
 
 - Reads the money counter and the event feed more accurately, using Windows'
